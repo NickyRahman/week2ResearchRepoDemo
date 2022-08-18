@@ -12,6 +12,9 @@ Scratch is the world's largest coding community for children and a coding langua
 ### What are some programming principles that you have discovered?
 
 ### Can you share your favourite Scratch project that you have made or remixed?
+Recently I made my first game in Scratch : https://scratch.mit.edu/projects/722400091
+This was a lot of fun probably because it was visually immediate to see. And the overall learning curve was pretty good.
+The coding process was easy as all the codes were there and it was just like working on a jigsaw puzzle.
 
 ## Week 2:
 
