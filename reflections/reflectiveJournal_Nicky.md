@@ -8,8 +8,11 @@ Image result for what is scratch
 Scratch is the world's largest coding community for children and a coding language with a simple visual interface that allows young people to create digital stories, games, and animations. Scratch is designed, developed, and moderated by the Scratch Foundation, a nonprofit organization.
 
 ### What is visual programming?
+Visual programming is a programming language that lets humans describe processes using illustration. Whereas a typical text-based programming language makes the programmer think like a computer, a visual programming language enables the programmer to describe the process in terms that make sense to humans.
 
 ### What are some programming principles that you have discovered?
+1. Keep It Simple, Stupid: most systems work best if they are kept simple rather than made complex - Less code takes less time to write, has less bugs, and is easier to modify.
+2. 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 Recently I made my first game in Scratch : https://scratch.mit.edu/projects/722400091
