@@ -30,7 +30,7 @@ While Git is a command line tool, GitHub provides a Web-based graphical interfac
 
 ## Week 3:
 
-### What is Visual Code?
+### What is Visual Studio Code?
 
 
 
