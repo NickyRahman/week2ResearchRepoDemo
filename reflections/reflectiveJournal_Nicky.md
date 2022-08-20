@@ -31,6 +31,7 @@ While Git is a command line tool, GitHub provides a Web-based graphical interfac
 ## Week 3:
 
 ### What is Visual Studio Code?
+Visual Studio Code (famously known as VS Code) is a free open source text editor by Microsoft. VS Code is available for Windows, Linux, and macOS. Although the editor is relatively lightweight, it includes some powerful features that have made VS Code one of the most popular development environment tools in recent times.
 
 
 
