@@ -41,6 +41,7 @@ Will install VS Code sometime this week. Not looking forward to this. It has bee
 THis week was quite interesting. We learned about videograph. Roman asked us all to do a short recording of others based on several requirements. Then we had to show the video by all of us putting it down on the floor and playing the video at the same time. 
 
 I am also including the various youtube links I have been using to learn more about the topics covered in this class:
+
 **GitHub**
 https://www.youtube.com/watch?v=r50BKIFGCI0 - A seven-series introduction to Git and GitHub
 https://www.youtube.com/watch?v=8Dd7KRpKeaE
