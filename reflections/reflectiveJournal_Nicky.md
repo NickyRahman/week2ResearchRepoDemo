@@ -18,6 +18,7 @@ Visual programming is a programming language that lets humans describe processes
 Recently I made my first game in Scratch : https://scratch.mit.edu/projects/722400091
 This was a lot of fun probably because it was visually immediate to see. And the overall learning curve was pretty good.
 The coding process was easy as all the codes were there and it was just like working on a jigsaw puzzle.
+![Nicky_scratch](https://user-images.githubusercontent.com/110507439/187025780-98b41160-f215-4be2-afc4-6d8930f4ed79.png)
 ##
 
 
