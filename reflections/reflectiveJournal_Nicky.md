@@ -35,3 +35,15 @@ Visual Studio Code (famously known as VS Code) is a free open source text editor
 
 Will install VS Code sometime this week. Not looking forward to this. It has been a steep learning curve with Python.
 
+## Week 4:
+
+### What is Videograph?
+THis week was quite interesting. We learned about videograph. Roman asked us all to do a short recording of others based on several requirements. Then we had to show the video by all of us putting it down on the floor and playing the video at the same time. 
+
+
+
+## Week 5:
+
+### What is Stand-up?
+Today we learned a little about a meeting tool called stand-up. A stand-up meeting (stum) is a meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. We used this tool to briefly share idea(s) we have for our final project.
+
