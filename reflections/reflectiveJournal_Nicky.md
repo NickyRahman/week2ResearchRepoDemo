@@ -43,9 +43,13 @@ THis week was quite interesting. We learned about videograph. Roman asked us all
 I am also including the various youtube links I have been using to learn more about the topics covered in this class:
 
 **GitHub**
+
 https://www.youtube.com/watch?v=r50BKIFGCI0 - A seven-series introduction to Git and GitHub
+
 https://www.youtube.com/watch?v=8Dd7KRpKeaE
+
 https://www.youtube.com/watch?v=tRZGeaHPoaw
+
 https://www.youtube.com/watch?v=RGOj5yH7evk - very detailed 1 hour tutorial.
 
 
