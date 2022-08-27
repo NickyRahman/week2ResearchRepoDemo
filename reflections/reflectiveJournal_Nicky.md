@@ -19,6 +19,8 @@ Recently I made my first game in Scratch : https://scratch.mit.edu/projects/7224
 This was a lot of fun probably because it was visually immediate to see. And the overall learning curve was pretty good.
 The coding process was easy as all the codes were there and it was just like working on a jigsaw puzzle.
 
+
+
 ## Week 2:
 
 ### What is git?
@@ -48,6 +50,20 @@ https://www.youtube.com/watch?v=RGOj5yH7evk - very detailed 1 hour tutorial.
 Visual Studio Code (famously known as VS Code) is a free open source text editor by Microsoft. VS Code is available for Windows, Linux, and macOS. Although the editor is relatively lightweight, it includes some powerful features that have made VS Code one of the most popular development environment tools in recent times.
 
 Will install VS Code sometime this week. Not looking forward to this. It has been a steep learning curve with Python.
+
+I am also including the various websites that I have found useful in learning more about Python:
+
+**Python**
+
+https://www.dataquest.io/blog/python-projects-for-beginners/
+
+https://docs.python.org/3/library/tkinter.html
+
+https://www.w3schools.com/python/
+
+##
+###
+
 
 ## Week 4:
 
