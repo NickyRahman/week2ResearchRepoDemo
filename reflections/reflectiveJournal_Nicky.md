@@ -93,6 +93,9 @@ Another new term we learned this week was **Blockchain**
 
 Blockchain defined: Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding).
 
+
+### Agile
+
 We also built a tower made of spagetti sticks and ONE marshmellow! That was fun and stressful! Roman spoek about working from the top-down. Meaning setting up the load (at the top), then looking at how we culd support the load. This is the concept behind **Agile**.
 
 **The Agile methodology** is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating.
