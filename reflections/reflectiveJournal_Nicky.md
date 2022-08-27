@@ -59,5 +59,12 @@ THis week was quite interesting. We learned about videograph. Roman asked us all
 ## Week 5:
 
 ### What is Stand-up?
-Today we learned a little about a meeting tool called stand-up. A stand-up meeting (stum) is a meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. We used this tool to briefly share idea(s) we have for our final project.
+Today we learned a little about a meeting tool called stand-up. A stand-up meeting (stum) is a meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. 
+
+The daily stand-up meeting (also known as a "daily scrum", a "daily huddle", "morning roll-call", etc.) is simple to describe:
+The whole team meets every day for a quick status update. We stand up to keep the meeting short.
+That's it.
+
+We used this tool to briefly share idea(s) we have for our final project. 
+
 
