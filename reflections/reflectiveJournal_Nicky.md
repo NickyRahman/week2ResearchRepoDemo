@@ -20,6 +20,8 @@ This was a lot of fun probably because it was visually immediate to see. And the
 The coding process was easy as all the codes were there and it was just like working on a jigsaw puzzle.
 ##
 
+
+
 ## Week 2:
 
 ### What is git?
@@ -40,6 +42,8 @@ https://www.youtube.com/watch?v=tRZGeaHPoaw
 
 https://www.youtube.com/watch?v=RGOj5yH7evk - very detailed 1 hour tutorial.
 ##
+
+
 
 ## Week 3:
 
@@ -62,10 +66,12 @@ https://www.w3schools.com/python/
 ###
 
 
+
 ## Week 4:
 
 ### What is Videograph?
 THis week was quite interesting. We learned about videograph. Roman asked us all to do a short recording of others based on several requirements. Then we had to show the video by all of us putting it down on the floor and playing the video at the same time. 
+##
 
 
 
