@@ -109,5 +109,15 @@ We also built a tower made of spagetti sticks and ONE marshmellow! That was fun 
 
 
 I am going to start another commit that focuses on my final project which will be a python-based game. I will be referring to a tutorial online.
+##
+
+
+
+## Week 6:
+Looking forward to learning this week! Spent the weekend practicing basic Python exercises.
+I think I am getting the hang of it. But I really need to spend at least 2 hours a day to keep practicing or I will forget the language!
+
+### [Insert topic]
+
 
 
