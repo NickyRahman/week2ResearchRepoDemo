@@ -117,7 +117,15 @@ I am going to start another commit that focuses on my final project which will b
 Looking forward to learning this week! Spent the weekend practicing basic Python exercises.
 I think I am getting the hang of it. But I really need to spend at least 2 hours a day to keep practicing or I will forget the language!
 
-### [Insert topic]
+### Python Koan (pronounced (Koh-uhnn)
+Python Koans is an interactive tutorial for learning the Python programming language by making tests pass. Most tests are fixed by filling the missing parts of assert functions. According to a Google site, In Zen Buddhism, a koan is a surprising and often perplexing phrase that's used as a meditation tool. A well-known koan is *"What is the sound of one hand clapping?"*
+
+It's common in Zen Buddhist training for a teacher to present a koan to a student, often in the form of a question. Because of their paradoxical nature, koans are nearly impossible to answer, and students are expected to "sit with" them while meditating. Ideally, the koan eventually leads to enlightenment — and at the very least, it challenges the mind. The Japanese koān means *"public matter for thought."*
+
+Today's lesson was very interesting. And really difficult to wrap my heard around. Trying to learn python by solving problems we didn't really understand. Or kind of did, but yeah... I think Pythoan Koan felt like reverse engineering a bit.. where you are given riddles with hints and you need to figure them out.
+
+![maxresdefault](https://user-images.githubusercontent.com/110507439/187132093-b4241d2e-338e-4fe8-88ef-0c411c9ca807.jpg)
 
 
+![c984fc872e28935678922ec97a69dd78](https://user-images.githubusercontent.com/110507439/187132104-e0e3ef8b-8927-4c5e-885c-89cf6be2c5b3.jpg)
 
