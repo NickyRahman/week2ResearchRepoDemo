@@ -129,3 +129,13 @@ Today's lesson was very interesting. And really difficult to wrap my heard aroun
 
 ![c984fc872e28935678922ec97a69dd78](https://user-images.githubusercontent.com/110507439/187132104-e0e3ef8b-8927-4c5e-885c-89cf6be2c5b3.jpg)
 
+I finally installed VSCode and Python on my laptop. 
+Will try and reproduce the steps we went through class today. Best of luck to me!!
+
+
+### Software Project
+I have given this more thought. SInce we are not required to do coding as part of the project, I am thinking of exploring **FIGMA** for games and web development.
+I will spend some time today and tomorrow looking at videos and tutorials about FIGMA.
+
+
+
