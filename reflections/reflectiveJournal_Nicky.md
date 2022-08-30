@@ -138,4 +138,8 @@ I have given this more thought. SInce we are not required to do coding as part o
 I will spend some time today and tomorrow looking at videos and tutorials about FIGMA.
 
 
-
+### Koan Progress
+Completed 32 Koans today!!! 
+Considering i started out around 2pm with struggling to run the program, and fumbling around trying to figure it, reaching out to Roman, and finally figuring out how all this works! 
+I still don't know what I am doing with the Koans. The earlier lessons were easier because I have been doing som ebasic python exercises. But now that I am in Lesson 3, it is getting very confuding. Sometimes I can kind of understand. I see the pattern. Sometimes it's just lucky guesses. Other times I force mistakes so I can get a hint from the error generated in the terminal. LOL!
+Also did a ste-by-step tutorial for some friends who were still trying to figure out how to get the python file running in VS Code.
