@@ -143,5 +143,9 @@ Completed 32 Koans today!!!
 Considering i started out around 2pm with struggling to run the program, and fumbling around trying to figure it, reaching out to Roman, and finally figuring out how all this works! 
 I still don't know what I am doing with the Koans. The earlier lessons were easier because I have been doing som ebasic python exercises. But now that I am in Lesson 3, it is getting very confuding. Sometimes I can kind of understand. I see the pattern. Sometimes it's just lucky guesses. Other times I force mistakes so I can get a hint from the error generated in the terminal. LOL!
 Also did a ste-by-step tutorial for some friends who were still trying to figure out how to get the python file running in VS Code.
+
+
 Also.. a MEME
-![Coding Meme1](https://user-images.githubusercontent.com/110507439/187431555-ad2d40cc-c087-4f4a-a2c5-ce4628d52668.png)
+![Coding Meme1](https://user-images.githubusercontent.com/110507439/187431881-f9f06db3-f8ef-4b04-9715-2f1cdba8b27c.png)
+
+
