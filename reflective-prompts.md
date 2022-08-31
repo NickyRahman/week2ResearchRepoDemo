@@ -1,45 +1,47 @@
-### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+### 1. Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 So.. I just realised we needed to do this repository from one of my classmates! I don't know if I have time to LOOK AWAY condsidering this needs to be submitted TOMORROW! Am going to try my best to finish as much as possible.
 
 
-### What is Timeboxing? Have you heard of it before? Will you use it?
+### 2. What is Timeboxing? Have you heard of it before? Will you use it?
 Contrary to most productivity practices where an individual takes on a task and works at it until completion, timeboxing is a time management technique that limits a task to a fixed (but realistic) timeline that may be minutes, hours, days, or even weeks long, depending on the task complexity (https://www.lucidchart.com/blog/what-is-timeboxing)
 
-### On a a 0-5 scale, how confident are you with each of the assignments?
+### 3. On a a 0-5 scale, how confident are you with each of the assignments?
 For the Research Repository, I am fairly confident I can do it, so maybe a 4. I just did not read the assignment properly so I had been filling up my Reflective journal instead of both the **Reflective Journal Repo** and the **Research Repo**.
 
-### What are of you proud of up to this point in the course?
+### 4. What are of you proud of up to this point in the course?
 I am struggling, but I am enjoying the course. I was very proud of my progress with the Koans coding. I was stuck, and didn't know what to do. Managed to do some research online and figurd out how to fix the prolems and move on with the Koans. So that was really morale-boosting for me.
 
-### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+### 5. Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 I have been struggling with finding a proper strategy. Time management has been a huge issue for me. But I have been trying to make time for me at night as day time is filled with personal errands and responsibility. But i try to keep at least 2-3 hours at night to complete the appropriate readings, practice time and assignments.
 
-### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+### 6. If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 I would say **Start with the Learning Module**. Been trying to catch up on my reading for this course, and I have learned a lot! Which has helped me to complete this repo and the assignments for this course.
 
-### What is Python?
+### 7. What is Python?
 Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. (Google search)
 
-### Have you developed a habit of exploring?
-Yes. I always have had a particular habit of exploring new things I have learned or heard. 
+### 8. Have you developed a habit of exploring?
+Yes. I always have had a particular habit of exploring new things I have learned or heard. First thing I do is go to Google to search keywords, and go on from there.
 
-### Have you meditated before?
+### 9. Have you meditated before?
+I have tried meditating during my yoga classes. I don't think I've been doing it right, because I definitely do not come out of it 'calmer' or more 'collected. LOL!
 
-### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+### 10. Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+Digital Painting. I am proud of the fact that  picked this up from trial and error and looking at tutorials online. It took a lot of practice. And Lockdown in 2020 was the perfect time for me to master this skill. I came up with several finished digital paintings during the lockdown.
 
-### Do you consider yourself a developer yet?
+### 11. Do you consider yourself a developer yet?
 
-### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+### 12. Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
-### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+### 13. How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
-### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+### 14. Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
-### What is an IDE?
+### 15. What is an IDE?
 
-### What did you learn out of the Marshmallow Challenge?
+### 16. What did you learn out of the Marshmallow Challenge?
 
-### Did you have any blocks during this challenge? How did you overcome them?
+### 17. Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
 
