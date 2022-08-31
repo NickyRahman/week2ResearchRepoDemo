@@ -24,14 +24,16 @@ Python is a computer programming language often used to build websites and softw
 Yes. I always have had a particular habit of exploring new things I have learned or heard. First thing I do is go to Google to search keywords, and go on from there.
 
 ### 9. Have you meditated before?
-I have tried meditating during my yoga classes. I don't think I've been doing it right, because I definitely do not come out of it 'calmer' or more 'collected. LOL!
+I have tried meditating during my yoga classes. I don't think I've been doing it right, because I definitely do not come out of it 'calmer' or more 'collected'. LOL!
 
 ### 10. Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 Digital Painting. I am proud of the fact that  picked this up from trial and error and looking at tutorials online. It took a lot of practice. And Lockdown in 2020 was the perfect time for me to master this skill. I came up with several finished digital paintings during the lockdown.
 
 ### 11. Do you consider yourself a developer yet?
+Aboslutely not! I have done python before but they were very much guided learning sessions. leave me alone and I will get lost!
 
 ### 12. Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
 
 ### 13. How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
