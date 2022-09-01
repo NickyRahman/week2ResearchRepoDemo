@@ -102,13 +102,16 @@ Coding is a process of creating instructions for a computer to follow. These ins
 They all seems difficult and hard to overcome at the beginning. It has been a steep learing curve. But a lot of it has been very rewarding especially when I am able to troubleshoot problems.
 
 ### 34. What is a fixed mindset?
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. ( Dweck, 2015)
 
 ### 35. What is something kind you have done for someone else?
+Took the time out to help them with problems they have been stuck with in class. 
 
 ### 36. Have you done mindfulness or attention training before?
+No. I am not sure what they are.
 
 ### 37. Have you developed a habit of persevering?
-
+I think I have. I feel like I am persevering with this course as these are all new to me.
 
 
 
