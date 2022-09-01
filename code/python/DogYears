@@ -3,4 +3,17 @@
 #The dog's age in dog's years is 73
 
 #1st 2 years of the dog = 21 years
-#3 year onward is = (n-2)4 + 21
+#3 year onward (n) is = (n-2)4 + 21
+
+dogYears = int (input ("How old is the dog?"))
+if dogYears < 0:
+  print ("Dog years must be a positive number!")
+  exit ()
+elif dogYears <= 2:
+  humanAge = dogYears * 10.5
+  print ("The age of the dog is (humanAge) years in human years.")
+else:
+  humanAge = 21 + (dogYears - 2) * 4
+  
+print (f"The age of the dog is (humanAge) years, in human years.")
+  
