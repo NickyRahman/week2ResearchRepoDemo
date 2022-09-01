@@ -149,7 +149,8 @@ Also.. a MEME
 ![Coding Meme1](https://user-images.githubusercontent.com/110507439/187431881-f9f06db3-f8ef-4b04-9715-2f1cdba8b27c.png)
 
 
-###Reflective_prompts
+
+### Reflective_prompts
 So I have not been paying attention to the Canvas announcement. Luckily my classmate informed me of the reflective_promts.md repo set by Roman. I spent the day completing this task. It was very daunting and challenging. There was a lot of reading, and researching.
 
 
