@@ -72,7 +72,7 @@ Polymorphism is one of the core concepts of object-oriented programming (OOP) an
 
 ### 24. What is an MVP? How would you describe it to a group of 6 year olds?
 **MVP** stands for **minimum viable product**. A minimum viable product (MVP) is a development technique in which a new product or website is developed with sufficient features to satisfy early adopters. The final, complete set of features is only designed and developed after considering feedback from the product's initial users.
-Explaining to a 6 year old,.. I HAVE NO IDEA...
+Explaining to a 6 year old, I would use a programme like SCRATCH to help them understand the concept of MVP.
 
 ### 25. What is the hardest problem you have solved so far?
 Explaining MVP to 6-year olds.
@@ -84,24 +84,30 @@ Explaining MVP to 6-year olds.
 Coding in Python, building games and websites.
 
 ### 28. What is conscious listening?
+Conscious listening is the act of being intentionally present during communication between yourself and another while being aware of your own and the other's feelings and needs (Google).
 
 ### 29. What is a variable?
+A variable is any characteristics, number, or quantity that can be measured or counted. A variable may also be called a data item. Age, sex, business income and expenses, country of birth, capital expenditure, class grades, eye colour and vehicle type are examples of variables. It is called a variable because the value may vary between data units in a population, and may change in value over time.
 
 ### 30. What programming languages are you interested in learning? Why?
+Python. It is very widely used, and according to my reading so far, it seems to be the best option for those without any coding or programming background.
 
 ### 31. What is something kind that someone has done for you?
+My classmates taking the time out to help me when I am struggling with course content.
 
 ### 32. If you were describing programming to someone who knows nothing about it, what would you say?
+Coding is a process of creating instructions for a computer to follow. These instructions are a type of language that humans use to communicate with machines (https://teachyourkidscode.com/how-to-explain-coding-to-a-child/). 
 
 ### 33. Which parts of this course made you feel doubtful of your own innate ability?
+They all seems difficult and hard to overcome at the beginning. It has been a steep learing curve. But a lot of it has been very rewarding especially when I am able to troubleshoot problems.
 
 ### 34. What is a fixed mindset?
 
-### What is something kind you have done for someone else?
+### 35. What is something kind you have done for someone else?
 
-### Have you done mindfulness or attention training before?
+### 36. Have you done mindfulness or attention training before?
 
-### Have you developed a habit of persevering?
+### 37. Have you developed a habit of persevering?
 
 
 
