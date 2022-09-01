@@ -11,9 +11,9 @@ if dogYears < 0:
   exit ()
 elif dogYears <= 2:
   humanAge = dogYears * 10.5
-  print ("The age of the dog is (humanAge) years in human years.")
+  print ("The age of the dog is {humanAge} years in human years.")
 else:
   humanAge = 21 + (dogYears - 2) * 4
   
-print (f"The age of the dog is (humanAge) years, in human years.")
+print (f"The age of the dog is {humanAge} years, in human years.")
   
