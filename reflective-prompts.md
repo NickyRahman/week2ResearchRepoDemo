@@ -6,7 +6,7 @@ So.. I just realised we needed to do this repository from one of my classmates! 
 Contrary to most productivity practices where an individual takes on a task and works at it until completion, timeboxing is a time management technique that limits a task to a fixed (but realistic) timeline that may be minutes, hours, days, or even weeks long, depending on the task complexity (https://www.lucidchart.com/blog/what-is-timeboxing)
 
 ### 3. On a a 0-5 scale, how confident are you with each of the assignments?
-For the Research Repository, I am fairly confident I can do it, so maybe a 4. I just did not read the assignment properly so I had been filling up my Reflective journal instead of both the **Reflective Journal Repo** and the **Research Repo**.
+For the Research Repository, I am fairly confident I can do it, so maybe a 4. I just did not read the assignment properly so I had been filling up my Reflective journal instead of both the **Reflective Journal Repo** and the **Research Repo**. For the Software project tiself, I would say about 3-ish?
 
 ### 4. What are of you proud of up to this point in the course?
 I am struggling, but I am enjoying the course. I was very proud of my progress with the Koans coding. I was stuck, and didn't know what to do. Managed to do some research online and figurd out how to fix the prolems and move on with the Koans. So that was really morale-boosting for me.
@@ -33,27 +33,35 @@ Digital Painting. I am proud of the fact that  picked this up from trial and err
 Aboslutely not! I have done python before but they were very much guided learning sessions. leave me alone and I will get lost!
 
 ### 12. Do you value creativity? As a value itself? What about as a tool for learning to think logically?
-
+Yes, very much! I think creativity is a valuable tool for learning to think logically. Many people assume creativity is restricted to art, but it is not. Creativity is applicable in all aspect of life. 
 
 ### 13. How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+19 tabs open. 19-0
+All tabs are related to study. Sad, I know.
 
 ### 14. Have you had a fight response to technology? What does it feel like? How did you overcome this?
+Yes. It can be frustrating when you don't know how the tech works. But usually I am able to overcome it by applying my knowledge on something similar to the new tech. Or I will google it up and figur it out from there.
 
 ### 15. What is an IDE?
+An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI). An IDE typically consists of **Source code editor**, **Local build automation**, and **Debugger**. Visual Studio Code can be classed as an integrated development environment (IDE), meaning that developers can write and test code at the same time.
 
 ### 16. What did you learn out of the Marshmallow Challenge?
+I learned about **MVP**. Minimum viable product (MVP) development is a way to verify business assumptions for custom software or test the demand for a new product with minimum investments. A minimum viable product (MVP) is a concept from Lean Startup that stresses the impact of learning in new product development. MVP programming helps you to produce an actual product.
 
 ### 17. Did you have any blocks during this challenge? How did you overcome them?
+We had many blocks during this challenge. We approaching it from a very different way, where we starte from the foundation of the structure, instead of looking for the fastest and quickest way to stabilise the marshmallow.
 
-### So far, what was the hardest moment of this course for you?
+### 18. So far, what was the hardest moment of this course for you?
+Picking up new terminologies and scripting.
 
-### What is OOP?
+### 19. What is OOP?
 
-### Are you using the canvas content? Do you find it helpful or tedious?
 
-### Which parts of the work did you find tedious?
+### 20. Are you using the canvas content? Do you find it helpful or tedious?
 
-### What is polymorphism?
+### 21. Which parts of the work did you find tedious?
+
+### 22. What is polymorphism?
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
