@@ -58,34 +58,44 @@ Picking up new terminologies and scripting.
 **OOP** stands for **Object Oriented Programming**, a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects. There are many object-oriented programming languages including JavaScript, C++, Java, and Python (https://www.educative.io/blog/object-oriented-programming). 
 
 ### 20. Are you using the canvas content? Do you find it helpful or tedious?
+Yes, I am. I am going through the Learning Modules and referring to the Assignments, the Announcements and chats/commets left by students and Tutors.
+I find the Canvas quite helpful especially with the documentations and modules for the courses I am taking.
 
 ### 21. Which parts of the work did you find tedious?
+I did not find any part part of the course too tedious. Sure, some parts are hard to grasp, but it just required me to do extra learning and practicing.
 
 ### 22. What is polymorphism?
+Polymorphism is one of the core concepts of object-oriented programming (OOP) and describes situations in which something occurs in several different forms. In computer science, it describes the concept that you can access objects of different types through the same interface. Each type can provide its own independent implementation of this interface (https://stackify.com/oop-concept-polymorphism/).
 
-### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+### 23. Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
-### What is an MVP? How would you describe it to a group of 6 year olds?
 
-### What is the hardest problem you have solved so far?
+### 24. What is an MVP? How would you describe it to a group of 6 year olds?
+**MVP** stands for **minimum viable product**. A minimum viable product (MVP) is a development technique in which a new product or website is developed with sufficient features to satisfy early adopters. The final, complete set of features is only designed and developed after considering feedback from the product's initial users.
+Explaining to a 6 year old,.. I HAVE NO IDEA...
 
-### What is pair programming?
+### 25. What is the hardest problem you have solved so far?
+Explaining MVP to 6-year olds.
 
-### What are you looking forward to learning about programming?
+### 26. What is pair programming?
+**Pair programming** is an agile **software development technique** in which two programmers work together at one workstation. One, the **driver**, writes code while the other, the **observer or navigator**, reviews each line of code as it is typed in. The two programmers switch roles frequently (Wikipedia).
 
-### What is conscious listening?
+### 27. What are you looking forward to learning about programming?
+Coding in Python, building games and websites.
 
-### What is a variable?
+### 28. What is conscious listening?
 
-### What programming languages are you interested in learning? Why?
+### 29. What is a variable?
 
-### What is something kind that someone has done for you?
+### 30. What programming languages are you interested in learning? Why?
 
-### If you were describing programming to someone who knows nothing about it, what would you say?
+### 31. What is something kind that someone has done for you?
 
-### Which parts of this course made you feel doubtful of your own innate ability?
+### 32. If you were describing programming to someone who knows nothing about it, what would you say?
 
-### What is a fixed mindset?
+### 33. Which parts of this course made you feel doubtful of your own innate ability?
+
+### 34. What is a fixed mindset?
 
 ### What is something kind you have done for someone else?
 
