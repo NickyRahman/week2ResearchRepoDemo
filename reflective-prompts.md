@@ -55,7 +55,7 @@ We had many blocks during this challenge. We approaching it from a very differen
 Picking up new terminologies and scripting.
 
 ### 19. What is OOP?
-
+**OOP** stands for **Object Oriented Programming**, a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects. There are many object-oriented programming languages including JavaScript, C++, Java, and Python (https://www.educative.io/blog/object-oriented-programming). 
 
 ### 20. Are you using the canvas content? Do you find it helpful or tedious?
 
