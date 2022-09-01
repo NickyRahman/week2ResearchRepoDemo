@@ -154,3 +154,17 @@ Also.. a MEME
 So I have not been paying attention to the Canvas announcement. Luckily my classmate informed me of the reflective_promts.md repo set by Roman. I spent the day completing this task. It was very daunting and challenging. There was a lot of reading, and researching.
 
 
+### Submission of Repository Assignment
+Dedicated the day to finishing the assignment. 
+Spent much of the day practicing Python which I included in the repository. 
+These are codes based on the tasks we were required to complete in Week 3/4 of the course.
+
+And usual, I am ending this with memes. ENJOY!!
+
+![26d2e5adc77b215b502234402fe574d5](https://user-images.githubusercontent.com/110507439/187833859-5f33f133-bec4-4fe9-a456-ac1f996c41b5.png)
+![submission_meme](https://user-images.githubusercontent.com/110507439/187833864-4352daa4-0137-49ca-a610-f9c3b5ee7f09.jpg)
+
+
+
+
+
