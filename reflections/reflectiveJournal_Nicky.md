@@ -163,8 +163,14 @@ And usual, I am ending this with memes. ENJOY!!
 
 ![26d2e5adc77b215b502234402fe574d5](https://user-images.githubusercontent.com/110507439/187833859-5f33f133-bec4-4fe9-a456-ac1f996c41b5.png)
 ![submission_meme](https://user-images.githubusercontent.com/110507439/187833864-4352daa4-0137-49ca-a610-f9c3b5ee7f09.jpg)
+##
 
 
+## Week 7:
 
-
+###Final Software Project
+This week Roman talked about jumpstarting our Final software project. I have had SO MANY IDEAS, it is ridiculous!! For weeks I have been jumping between one idea to another.... I want to do a website, I want to try out making a game, I want to do scripting!! 
+But looking at the time I have on hand, I might do something I am more familiar with - python scripting for graphics.
+I had done some basic tutorials using Python turtle ages ago. I think it's time i pick it up again, brushed the dust and give it another try.
+The plan is to write up some simple scripts that generate simple graphics. For the final presentation, I plan to write up about 10 scripts and let them loop.
 
