@@ -178,7 +178,7 @@ The plan is to write up some simple scripts that generate simple graphics. For t
 
 ## Week 8:
 
-###Final Software Project
+### Final Software Project
 Progress - I have completed a series of simple python scripts that generates graphic visuals. Although these are all based on existing tutorials, I am quite happy with them, and I think I learned a lot as I broke down each line to understand what I was typing.
 I spent some time looking for ways to compile them and automate the script so they could play sequentially. I finally found one online, and decided to test it out by editing the script to read my files. I am still trying to fogire out how to control the start and end of the play. Hopefully I can get it done by submission date.
 
@@ -192,7 +192,7 @@ The purpose of writing a pseudocode is that it is easier for people to understan
 I will start another repository to complete the third assignment which is the pseudocode and flowchart.
 
 
-###Koan
+### Koan
 I took a break from reading and writing python codes and had a bit of fun with the Koans.Managed to complete 34 tasks! It was not easy and had to read up abit before I could understand what I was solving. But it has been fun doing the Koans. Can't say I have reached any level of enlightenment but I guess it is abit too early for that!
 
 
