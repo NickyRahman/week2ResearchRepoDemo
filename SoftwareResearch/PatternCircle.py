@@ -11,4 +11,6 @@ for i in range(200):
     t.pensize(i/10+1)
     t.forward(i)
     t.left(59)
+
+    done()
     
