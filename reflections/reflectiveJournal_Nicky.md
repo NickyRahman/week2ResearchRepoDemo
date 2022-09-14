@@ -189,10 +189,23 @@ Pseudocode is the way of expressing a program or code so that it could be easily
 
 The purpose of writing a pseudocode is that it is easier for people to understand and interpret, than any specific programming language code. There is no standard pseudocode syntax required when writing pseudocode, as a program in pseudocode is not an executable program.
 
+**Five important rules for writing pseudocode are:**
+**1.** Write one statement per line.
+**2.** Initial keywords should be represented in capital case(READ, WRITE, IF, WHILE, UNTIL).
+**3.** Indentation of pseudocode should be similar to the actual program to show hierarchy.
+**4.** Ending the multiline structure is necessary.
+**5.** Keep statements in simple language(English).
+
 I will start another repository to complete the third assignment which is the pseudocode and flowchart.
 
 
 ### Koan
-I took a break from reading and writing python codes and had a bit of fun with the Koans.Managed to complete 34 tasks! It was not easy and had to read up abit before I could understand what I was solving. But it has been fun doing the Koans. Can't say I have reached any level of enlightenment but I guess it is abit too early for that!
+I took a break from reading and writing python codes for the final assignment and had a bit of fun with the Koans. Managed to complete 34 tasks! It was not easy and had to read up abit before I could understand what I was solving. But it has been fun doing the Koans. Can't say I have reached any level of enlightenment but I guess it is abit too early for that!
+
+
+### Flowchart
+Flowchart is part of the third assignment for this course. This also required some reading as I have never down a coding-centric flowcharts. I call it coding-centric as the symbols or shapes used to create the chart do actually carry certain meaning/function. So it is not as simple as putting in a cirle, or rhombus and arrows anyway you like. This was a good site to get some basic ideas about flowcharts :https://asana.com/resources/what-is-a-flowchart
+
+So what is a flowchart? A Flowchart is visual representation of flow of a code or program. It uses standard symbols for input, output decisions and start stop statements. In a flowchart, we use certain shapes like box, circle and arrow. Flowcharts help us understand the code better.
 
 
