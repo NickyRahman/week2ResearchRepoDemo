@@ -10,6 +10,8 @@ def callPET():
   if petName != 'CAT' or petName!= 'DOG':
     print ('Input must be CAT or DOG')
     callPET()
+  
+callPET()
 
 # press Ctrl + forward slash(/) to add or remove comment symbol (#)
 # press Ctrl+C to quit previous program
