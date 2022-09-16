@@ -5,25 +5,21 @@ This file includes the Pseudocode for the Cat and Dog Program, as well as the fl
 
 ## Brief - Cat and Dog Program
 
-Ask somebody to type in either CAT or DOG
+Ask somebody to type in their petName as either CAT or DOG 
 
-Define function as callPET
+IF petName = 'CAT' 
 
-Variable name = petName
+Print 'Meow' 
 
-IF petName = 'CAT'
+IF petName = 'DOG' 
 
-  Print 'Meow'
-  
-IF petName = 'DOG'
+Print 'Woof, woof' 
 
-  Print 'Woof, woof'
-  
-IF petName NOT = DOG AND petName NOT = CAT
-  
-  Print 'Input must be CAT or DOG'
-  
-  Go back to original request
+IF petName NOT = DOG AND petName NOT = CAT 
+
+Print 'Input must be CAT or DOG' 
+
+Go back to original request 
 ##
 
 ## Flowchart
