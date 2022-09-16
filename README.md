@@ -1,10 +1,7 @@
 # week2ResearchRepoDemo
 
-<!-- how to comment in markdown -->
-unsecret
+This repo contains THREE main content.
 
-## What is Scratch? 
-scratch is a visual programming language developed a MIT We used it for an intro to programming.
-
-find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
-scratch is a visual programming language developed at MIT We used it for an intro to programming.
+1. Weekly/Daily reflections
+2. Software project Progress and codes
+3. Pseudocode and flowchart assignment
