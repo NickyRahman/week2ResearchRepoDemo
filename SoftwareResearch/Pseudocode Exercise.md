@@ -18,4 +18,5 @@ IF petName = 'DOG'
 IF petName NOT = DOG AND petName NOT = CAT
   
   Print 'Input must be CAT or DOG'
+  
   Go back to original request
