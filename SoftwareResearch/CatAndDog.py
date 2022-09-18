@@ -5,8 +5,10 @@ def callPET():
   
   if petName == 'CAT':
     print('Meow')
+    done()
   if petName == 'DOG':
     print('Woof, woof')
+    done()
   if petName != 'CAT' or petName!= 'DOG':
     print ('Input must be CAT or DOG')
     callPET()
